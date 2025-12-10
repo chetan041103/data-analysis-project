@@ -26,16 +26,9 @@ Jupyter Notebook → Code execution & exploratory analysis
 
 GitHub → Version control & project hosting
 
-📂 Project Structure
-📁 Customer-Purchase-Behavior-Analysis
-│
+                           
 
-├── 📄 data cleaning using python.ipynb     
-├── 📄 sql queries.sql                      
-├── 📄 power bi dashboard.pbix              
-├── 📄 README.md                            
-
- Key Steps Performed
+ Key Steps Performed:
 1️⃣ Data Cleaning (Python)
 
 Removed duplicates and handled missing values
